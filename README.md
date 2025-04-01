@@ -13,7 +13,7 @@ This app can help you if you have lost your IR remote for home theather and have
 
 ## Planned features:
 - [ ] Add all commands of original IR remote of Xoro HXS 435.
-- [ ] Maybe support for another home thaather systems.
-- [ ] Support for audio IR transmitters.
+- [ ] Maybe support for another home theather systems.
+- [ ] Support for external IR transmitters.
 
  
